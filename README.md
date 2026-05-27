@@ -89,37 +89,36 @@ Ask Me About:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript%20%7C%20Tailwind-61DAFB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-339933?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker-FF9900?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-F05032?style=for-the-badge"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,docker,aws,git,github,vscode"/>
+⚡ Building Scalable SaaS Platforms <br>
+🤖 Developing AI Agentic Systems <br>
+🌐 Crafting Modern Web Experiences <br>
+☁️ Deploying Applications on Cloud <br>
+🔐 Creating Secure & Reliable APIs
 
 </p>
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 DEVELOPER METRICS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjalisharma-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://img.shields.io/badge/Experience-Full%20Stack%20Developer-blue?style=for-the-badge"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisharma-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://img.shields.io/badge/Stack-MERN-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-AI%20Agentic%20Systems-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker-orange?style=for-the-badge"/>
 
 </p>
 
+<p align="center">
+
+🔥 Building production-ready applications <br>
+🚀 Developing scalable SaaS solutions <br>
+🤖 Exploring AI-powered automation systems
+
+</p>
 ---
 
 # 🔥 GITHUB STREAK
@@ -138,24 +137,34 @@ Ask Me About:
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# 🏅 ACHIEVEMENTS
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anjalisharma-04&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+🚀 Full Stack Developer <br>
+⚡ MERN Stack Engineer <br>
+🤖 AI Agentic Developer <br>
+☁️ AWS & Docker Experience <br>
+📚 Research Paper Published <br>
+💼 Production Application Development
+
 </p>
 
 ---
 
-# 🧠 SKILL MATRIX
+# 🧠 CORE EXPERTISE
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjalisharma-04&theme=tokyonight"/>
+Frontend • React • JavaScript • Tailwind <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjalisharma-04&theme=tokyonight"/>
+Backend • Node.js • Express.js • REST APIs <br><br>
+
+Database • MongoDB • Mongoose <br><br>
+
+Cloud • AWS • Docker • Deployment
 
 </p>
-
 ---
 
 # 🚀 FEATURED PROJECTS
@@ -202,13 +211,15 @@ Modern E-Commerce Platform:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
-<img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=windows"/>
 
-<img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
 
-<img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
 
 </p>
 
@@ -218,9 +229,21 @@ Modern E-Commerce Platform:
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjalisharma-04&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blueviolet?style=for-the-badge"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjalisharma-04&theme=tokyonight&utcOffset=8"/>
+<img src="https://img.shields.io/badge/Stack-MERN-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-AI%20Agentic%20Systems-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker-orange?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+🚀 Building Modern Web Applications <br>
+🤖 Exploring AI Agentic Systems <br>
+☁️ Deploying Scalable Cloud Solutions
 
 </p>
 
