@@ -89,10 +89,25 @@ Ask Me About:
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjalisharma-04&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript%20%7C%20Tailwind-61DAFB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-339933?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker-FF9900?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-F05032?style=for-the-badge"/>
 
 </p>
 
+<br>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,docker,aws,git,github,vscode"/>
+
+</p>
 ---
 
 # 📊 GITHUB ANALYTICS
