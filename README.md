@@ -16,6 +16,49 @@
 
 ---
 
+# 👋 ABOUT ME
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Zyphor
+
+💼 **Role:** Full Stack Developer
+
+🚀 **Specialization**
+- MERN Stack
+- AI Agentic Systems
+- REST APIs
+- Cloud Deployment
+- Backend Architecture
+
+📍 **Location**
+- Noida, India
+
+🔥 **Currently Building**
+- SaaS Platforms
+- AI Automation Systems
+- Scalable Web Applications
+
+📚 **Learning**
+- Advanced AI Integrations
+- Cloud Scaling
+- DevOps
+
+💡 **Fun Fact**
+- I love building products that solve real-world problems.
+
+</td>
+
+<td width="50%">
+
+<img width="100%" src="YOUR_IMAGE_URL_HERE"/>
+
+</td>
+</tr>
+</table>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ABOUT ME
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
