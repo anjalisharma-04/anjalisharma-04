@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=ZYPHOR&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=40](https://t3.ftcdn.net/jpg/04/39/48/22/240_F_439482203_HXiBpYOSnxP1GrkAbp7RgWFWERwEE1eL.jpg)"/>
+<img src="https://t3.ftcdn.net/jpg/04/39/48/22/240_F_439482203_HXiBpYOSnxP1GrkAbp7RgWFWERwEE1eL.jpg"/>
 </p>
 
 ---
