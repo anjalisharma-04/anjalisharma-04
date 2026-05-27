@@ -53,7 +53,7 @@
 
 <td width="50%">
 
-<img width="100%" src="YOUR_IMAGE_URL_HERE"/>
+<img width="100%" src="https://pixabay.com/images/download/charlvera-computer-8589007_1920.png"/>
 
 </td>
 </tr>
