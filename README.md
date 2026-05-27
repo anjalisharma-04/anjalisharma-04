@@ -18,7 +18,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ABOUT ME
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 Name: Zyphor
